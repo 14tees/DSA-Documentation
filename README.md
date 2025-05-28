@@ -3,7 +3,7 @@ This is where I started building my portfolio while taking the Data Analysis cla
 
 - I have learnt a lot so far with the Incubator, starting with Excel, down to SQL, and now GitHub
 - it is inexplicable
-    - data cleaning [Download Here](https://www.microsft.com)
+    - data cleaning [Download Here](https://www.microsoft.com)
     - data collection
       
 ## DSA-Documentation
