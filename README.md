@@ -5,7 +5,7 @@ This is where I started building my portfolio while taking the Data Analysis cla
 - it is inexplicable
     - data cleaning [Download Here](https://www.microsoft.com)
     - data collection
-    - Power BI [Download Here](for creating a report(https://www.microsoft.com)
+    - Power BI [Dowload [for creating a report](https://www.microsoft.com)
       
 ## DSA-Documentation
 - studying
