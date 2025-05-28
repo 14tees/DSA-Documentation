@@ -14,8 +14,7 @@ This is where I started building my portfolio while taking the Data Analysis cla
 
 ### DSA-Project Topic
 ### DSA-Project Overview
-It pays to be good, so always fvffffffffffffff
-
+It pays to be good, so always 
 --- SQL
 SELECT A,B,C
 WHERE A.15
