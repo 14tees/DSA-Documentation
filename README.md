@@ -17,7 +17,7 @@ This is where I started building my portfolio while taking the Data Analysis cla
 It pays to be good, so always 
 ``` SQL
 SELECT A,B,C
-WHERE A.15
+WHERE A> 15
 ```
 
 
